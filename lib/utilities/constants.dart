@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+const String kApiKey = 'dd6d28147cb9c31435c35bb0c6d89e85';
+
 const kMyButtonStyle = ButtonStyle(
     backgroundColor: MaterialStatePropertyAll(Colors.black),
     padding: MaterialStatePropertyAll(EdgeInsets.all(22)),
